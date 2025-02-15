@@ -14,7 +14,7 @@ import net.objecthunter.exp4j.ExpressionBuilder;
  */
 public class CaculatorFrame extends javax.swing.JFrame {
 
-    public String textResult = "";
+    public String textResult = "";//
     public int mode = 0;
     public int status = 0;
 
